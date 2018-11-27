@@ -1,3 +1,5 @@
+
+
 # Block Spotify Ads
     127.0.0.1 media-match.com
     127.0.0.1 open.spotify.com
@@ -45,3 +47,5 @@
     127.0.0.1 geo3.ggpht.com
     127.0.0.1 showads33000.pubmatic.com
     127.0.0.1 spclient.wg.spotify.com
+
+# This has been modified by ANON-v1. Do not remove this line
